@@ -231,7 +231,7 @@ Render will install the dependencies, build the application, and start the FastA
 
 After successful deployment, Render provides a public URL similar to:
 
-https://mental-health-score.onrender.com
+https://mental-health-scoreuvi.onrender.com
 
 You can use this URL to access the deployed application.
 
