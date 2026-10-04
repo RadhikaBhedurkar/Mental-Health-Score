@@ -25,7 +25,7 @@ The project demonstrates how **Python, Machine Learning, Data Analysis, and Web 
 * **NumPy** – Numerical operations
 * **Matplotlib / Seaborn** – Data visualization
 * **Scikit-learn** – Machine Learning
-* **Flask** – Web application development
+* **FastAPI** – Web application development
 * **HTML5**
 * **CSS3**
 * **JavaScript**
